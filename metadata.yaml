@@ -1,0 +1,33 @@
+_repo: Daisy-s-Aunt_28999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Socialites -- Fiction'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: Daisy's Aunt
+url: http://www.gutenberg.org/ebooks/28999
